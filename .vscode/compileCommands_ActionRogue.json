@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\UE Project\\ActionRogue\\Source\\ActionRogue\\ActionRogue.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE Project\\ActionRogue\\.vscode\\compileCommands_ActionRogue\\ActionRogue.1.rsp"
+		],
+		"directory": "D:\\UE_5.6\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE Project\\ActionRogue\\Source\\ActionRogue\\ActionRogue.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE Project\\ActionRogue\\.vscode\\compileCommands_ActionRogue\\ActionRogue.1.rsp"
+		],
+		"directory": "D:\\UE_5.6\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE Project\\ActionRogue\\Source\\ActionRogue\\ActionRogue.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE Project\\ActionRogue\\.vscode\\compileCommands_ActionRogue\\ActionRogue.1.rsp"
+		],
+		"directory": "D:\\UE_5.6\\UE_5.6\\Engine\\Source"
+	}
+]
